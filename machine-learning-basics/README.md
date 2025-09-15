@@ -2,9 +2,7 @@ This is coding implementation of level 1  machine learning course by codebasics 
 
 ##### Lecture 1 - What is Machine Learning?
 ##### Lectire 2 - Linear Regression Single Variable
-
-
-
+##### Lecture 3 - Linear Regression Multiple Variables
 
 Tools and Libraries:
 Scikit learn tutorials 
